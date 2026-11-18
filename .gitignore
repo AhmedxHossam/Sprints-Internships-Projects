@@ -1,0 +1,34 @@
+# Private configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Python and tooling
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.test-runtime*/
+# Generated application state
+.runtime/
+runtime/
+.local/
+.local_support/
+run_output/
+*.sqlite*
+*.db
+*.log
+*.jsonl
+# Editors / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+# Only curated project archives belong in the repository
+*.zip
+!downloads/*.zip

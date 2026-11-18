@@ -1,0 +1,6 @@
+[tool.mypy]
+python_version = "3.14"
+strict = true
+follow_untyped_imports = true
+mypy_path = "$MYPY_CONFIG_FILE_DIR/lumina_rescue"
+files = ["lumina_rescue/state_graph_config.py", "lumina_rescue/loop_logic.py", "tests/test_rescue_plan.py"]

@@ -1,0 +1,21 @@
+query_id,timestamp,user_prompt,latency_ms,error_type,resolution_status
+REQ-10041,2023-11-12T08:14:22Z,"Compare the Spring 2023 and Fall 2024 academic integrity policies for graduate engineering students.",14500,Multi_Hop_Failure,Failed
+REQ-10042,2023-11-12T08:19:05Z,"List all prerequisites for Advanced Machine Learning (CS-504) that were added after the 2021 curriculum revision.",8200,Temporal_Filter_Miss,Resolved_Partial
+REQ-10043,2023-11-12T08:45:11Z,"If a post-doc researcher works 20 hours a week, what is their maximum allowed vacation accrual under the new university staff union contract?",18340,Context_Truncation,Timeout
+REQ-10044,2023-11-12T09:05:00Z,"Who is the department head of Sociology, and what is their maximum approval limit for international conference travel grants?",4100,Vector_Search_Miss,User_Abandoned
+REQ-10045,2023-11-12T09:18:33Z,"Summarize all grading rubric changes for CHEM-301 between Dr. Aris's 2022 syllabus and Dr. Thorne's 2023 syllabus.",22100,Max_Tokens_Exceeded,Timeout
+REQ-10046,2023-11-12T10:02:14Z,"I need the exact procedure for a student appealing an academic suspension, including the forms required by the Dean of Students and the Registrar.",9550,Incomplete_Retrieval,Failed
+REQ-10047,2023-11-12T10:15:44Z,"What are the matching fund requirements for the NSF CAREER grant application as stipulated by the University Research Office?",11200,Context_Truncation,Escalated_to_Support
+REQ-10048,2023-11-12T11:05:21Z,"Find all tenured faculty members in the College of Arts & Sciences who are eligible for a sabbatical next year based on the 7-year continuous service rule.",19450,Logic_Aggregation_Failure,Timeout
+REQ-10049,2023-11-12T11:30:19Z,"Can a graduate TA use departmental funds to purchase software licenses if the course has over 100 enrolled students?",5400,Vector_Search_Miss,User_Abandoned
+REQ-10050,2023-11-12T12:45:01Z,"Extract the week-by-week reading list from the HIST-201 syllabus and cross-reference it with the library's digital reserve availability.",25800,External_Tool_Missing,Failed
+REQ-10051,2023-11-12T13:10:12Z,"Are adjunct professors covered under the new mental health tele-counseling benefits announced last month?",6200,Temporal_Filter_Miss,Resolved_Partial
+REQ-10052,2023-11-12T13:42:55Z,"Calculate the total credit hours required for a dual major in Physics and Applied Mathematics, excluding overlapping core requirements.",17800,Multi_Hop_Failure,Timeout
+REQ-10053,2023-11-12T14:05:33Z,"Give me the step-by-step lab safety protocol for handling hydrofluoric acid as outlined in the 2024 EHS manual.",12300,Context_Truncation,Escalated_to_Support
+REQ-10054,2023-11-12T14:22:18Z,"What is the difference in indirect cost recovery (IDCR) rates between federal grants and private foundation grants for the medical campus?",15600,Incomplete_Retrieval,Failed
+REQ-10055,2023-11-12T15:01:47Z,"Show me the approved accommodations for a student with ADHD taking a timed online examination via Canvas.",4800,Vector_Search_Miss,User_Abandoned
+REQ-10056,2023-11-12T15:30:29Z,"Identify any schedule conflicts between the mandatory freshmen orientation seminars and the varsity athletics practice windows.",21000,Logic_Aggregation_Failure,Timeout
+REQ-10057,2023-11-12T16:11:05Z,"Under what circumstances can a doctoral candidate petition for an extension to the 5-year degree completion deadline?",7900,Vector_Search_Miss,Resolved_Partial
+REQ-10058,2023-11-12T16:45:52Z,"Summarize the university's intellectual property policy regarding software developed by students using university-provided cloud infrastructure.",13400,Context_Truncation,Failed
+REQ-10059,2023-11-12T17:20:10Z,"Which upper-level literature seminars fulfill both the diverse cultures requirement and the writing-intensive requirement?",18900,Multi_Hop_Failure,Timeout
+REQ-10060,2023-11-12T17:55:33Z,"What is the maximum reimbursement amount for meals during international travel per the October 2023 finance office update?",6700,Temporal_Filter_Miss,User_Abandoned

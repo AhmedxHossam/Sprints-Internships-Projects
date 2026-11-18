@@ -1,0 +1,352 @@
+[
+  {
+    "id": "LNAI-MED-001",
+    "title": "Efficacy of Psychedelic-Assisted Therapy in Treatment-Resistant PTSD: A Phase II Trial",
+    "abstract_text": "This randomized, double-blind, placebo-controlled trial evaluates the efficacy of MDMA-assisted psychotherapy for severe, treatment-resistant post-traumatic stress disorder (PTSD). Over a 16-week period, 90 participants were administered either MDMA or a placebo alongside standard trauma-focused therapy. The primary endpoint was the change in Clinician-Administered PTSD Scale (CAPS-5) scores. Results demonstrated a significant reduction in CAPS-5 scores for the MDMA group (p < 0.001), with 67% no longer meeting PTSD diagnostic criteria at the two-month follow-up. The safety profile was favorable, with transient hypertension and anxiety being the most common adverse events. These clinical insights suggest psychedelic-assisted models may revolutionize treatment paradigms for refractory psychiatric conditions.",
+    "authors": ["Dr. Elias Vance", "Dr. Sarah Jenkins", "M. K. Patel"],
+    "publication_date": "2023-04-12"
+  },
+  {
+    "id": "LNAI-MED-002",
+    "title": "Neuroplasticity and Cognitive Behavioral Therapy: fMRI Insights in Major Depressive Disorder",
+    "abstract_text": "Cognitive Behavioral Therapy (CBT) is a first-line treatment for Major Depressive Disorder (MDD), yet its neurobiological mechanisms remain partially understood. This study utilized functional magnetic resonance imaging (fMRI) to track neuroplastic changes in 120 MDD patients undergoing a 12-week CBT intervention. Pre- and post-treatment scans revealed increased resting-state connectivity between the prefrontal cortex and the amygdala, correlating with symptom remission as measured by the Hamilton Depression Rating Scale (HAM-D). Furthermore, non-responders exhibited blunted neuroplastic adaptations in the hippocampus. The findings highlight the potential for using fMRI biomarkers to predict CBT response and tailor psychological interventions in clinical settings.",
+    "authors": ["Dr. Elena Rostova", "Dr. H. Zheng"],
+    "publication_date": "2023-05-22"
+  },
+  {
+    "id": "LNAI-MED-003",
+    "title": "Longitudinal Impact of Screen Time on Adolescent Dopaminergic Pathways and Attention Span",
+    "abstract_text": "With the exponential rise in digital media consumption, understanding its impact on adolescent neurodevelopment is critical. This 5-year longitudinal study monitored 450 adolescents, correlating daily self-reported screen time with cognitive assessments and neuroimaging data. Prolonged daily screen time (>4 hours) was associated with a downregulation of D2 dopamine receptors in the striatum and structural thinning in the anterior cingulate cortex. Behaviorally, these participants exhibited a 22% decrease in sustained attention span and increased impulsivity metrics. The research underscores the necessity of establishing evidence-based pediatric guidelines for digital consumption to mitigate potential long-term neurocognitive deficits.",
+    "authors": ["A. R. Thompson", "C. L. Davies", "Dr. J. Aris"],
+    "publication_date": "2022-11-08"
+  },
+  {
+    "id": "LNAI-MED-004",
+    "title": "Microbiome-Gut-Brain Axis: Bifidobacterium longum Supplementation in Generalized Anxiety Disorder",
+    "abstract_text": "Emerging evidence suggests the gut microbiome significantly influences mood and anxiety through the gut-brain axis. We conducted a placebo-controlled clinical trial investigating the anxiolytic effects of a specific probiotic strain, Bifidobacterium longum (LNAI-BL99), in adults with Generalized Anxiety Disorder (GAD). Over 8 weeks, 150 subjects received either the probiotic or a placebo. The active group showed a statistically significant decrease in Hamilton Anxiety Rating Scale (HAM-A) scores compared to placebo (p=0.02). Fecal metabolomics revealed increased short-chain fatty acid (SCFA) production, which inversely correlated with serum cortisol levels. This study supports the therapeutic potential of targeted psychobiotics as adjunctive treatments for anxiety disorders.",
+    "authors": ["Dr. M. Rahman", "F. Castillo", "Dr. Elena Rostova"],
+    "publication_date": "2023-08-15"
+  },
+  {
+    "id": "LNAI-MED-005",
+    "title": "Machine Learning Biomarkers for Early Detection of Alzheimer's Disease via Speech Patterns",
+    "abstract_text": "Early diagnosis of Alzheimer's Disease (AD) is hindered by the lack of non-invasive, accessible screening tools. This research introduces an AI-driven diagnostic model utilizing natural language processing (NLP) to analyze acoustic and linguistic features in conversational speech. By training a deep neural network on voice recordings from 300 individuals (100 early-stage AD, 100 Mild Cognitive Impairment, 100 healthy controls), the model achieved an AUC of 0.91 for AD detection. Key predictive features included reduced semantic density, increased pause frequency, and subtle phonetic simplifications. The system offers a scalable, low-cost screening mechanism for primary care settings, facilitating earlier clinical intervention and trial enrollment.",
+    "authors": ["Dr. L. Chen", "Dr. Alex Turing", "S. W. Brooks"],
+    "publication_date": "2023-01-30"
+  },
+  {
+    "id": "LNAI-MED-006",
+    "title": "Efficacy of Transcranial Magnetic Stimulation in Refractory Obsessive-Compulsive Disorder",
+    "abstract_text": "Transcranial Magnetic Stimulation (TMS) is emerging as a promising intervention for psychiatric disorders. This sham-controlled trial investigated deep TMS targeting the medial prefrontal cortex (mPFC) and anterior cingulate cortex (ACC) in 75 patients with treatment-resistant Obsessive-Compulsive Disorder (OCD). Following a 6-week protocol of daily sessions, the active TMS group demonstrated a 35% reduction in Yale-Brown Obsessive Compulsive Scale (Y-BOCS) scores, compared to an 11% reduction in the sham group. Sustained benefits were observed at the 3-month follow-up in 55% of the responders. These data support the integration of deep TMS into the clinical algorithm for severe, intractable OCD.",
+    "authors": ["Dr. R. K. Sterling", "N. O. Obasi"],
+    "publication_date": "2022-09-14"
+  },
+  {
+    "id": "LNAI-MED-007",
+    "title": "Sleep Architecture Disruption in Long-COVID Patients: A Polysomnographic Study",
+    "abstract_text": "Post-Acute Sequelae of SARS-CoV-2 infection (PASC), or Long-COVID, is frequently associated with profound fatigue and non-restorative sleep. We conducted comprehensive overnight polysomnography on 120 Long-COVID patients and 80 matched controls. Findings indicated a significant reduction in N3 (slow-wave) sleep and an increase in micro-arousals among the PASC cohort. Furthermore, REM latency was notably prolonged. Inflammatory markers, specifically IL-6 and TNF-alpha, correlated strongly with the degree of sleep architecture fragmentation. These objective polysomnographic abnormalities suggest a neuroinflammatory basis for the sleep disturbances seen in Long-COVID, requiring targeted neuro-immunological therapeutic strategies.",
+    "authors": ["Dr. T. M. Harper", "Dr. E. J. Klein"],
+    "publication_date": "2023-10-05"
+  },
+  {
+    "id": "LNAI-MED-008",
+    "title": "Ketamine Infusion Therapy for Acute Suicidal Ideation in Emergency Psychiatry",
+    "abstract_text": "Managing acute suicidal ideation in emergency departments remains a critical challenge due to the delayed onset of conventional antidepressants. This open-label study evaluated the rapid antisuicidal effects of subanesthetic intravenous ketamine (0.5 mg/kg) in 85 patients presenting with acute psychiatric emergencies. The Montgomery-Asberg Depression Rating Scale (MADRS) suicide item was administered at baseline, 4 hours, and 24 hours post-infusion. A clinically significant reduction in suicidal ideation was observed in 72% of patients within 4 hours, sustained at 24 hours in 65% of the cohort. While transient dissociative symptoms were noted, the rapid therapeutic onset positions ketamine as a vital tool for acute stabilization in psychiatric crises.",
+    "authors": ["Dr. P. L. Gomez", "M. B. Sullivan", "Dr. A. Patel"],
+    "publication_date": "2023-02-18"
+  },
+  {
+    "id": "LNAI-MED-009",
+    "title": "Impact of Virtual Reality Exposure Therapy on Veteran PTSD: A Randomized Control Trial",
+    "abstract_text": "Traditional prolonged exposure therapy for combat-related Post-Traumatic Stress Disorder (PTSD) suffers from high dropout rates. This trial investigated Virtual Reality Exposure Therapy (VRET) as a more engaging alternative. 150 combat veterans were randomized to either VRET or standard imaginal exposure. The VRET group engaged in multisensory, immersive combat simulations tailored to their trauma. After 10 weeks, both groups showed significant symptom reduction, but the VRET cohort exhibited a remarkably lower dropout rate (12% vs. 38% for standard exposure). Additionally, VRET participants reported a stronger therapeutic alliance. These results advocate for the broader implementation of immersive technologies in trauma-focused clinical care.",
+    "authors": ["Dr. M. H. Fisher", "L. Q. Grant"],
+    "publication_date": "2022-12-10"
+  },
+  {
+    "id": "LNAI-MED-010",
+    "title": "Dietary Interventions in Pediatric ADHD: The Role of Oligoantigenic Diets",
+    "abstract_text": "The potential influence of diet on Attention-Deficit/Hyperactivity Disorder (ADHD) symptomatology remains controversial. This rigorous 4-week crossover trial assessed the efficacy of a strictly supervised oligoantigenic (elimination) diet in 60 children diagnosed with severe ADHD. Conners' Rating Scales were completed by parents and blinded teachers. During the restricted diet phase, 65% of the subjects demonstrated a >40% improvement in hyperactivity and impulsivity scores. Subsequent controlled reintroduction of specific food antigens provoked marked behavioral deterioration in the responder group. The study confirms that personalized dietary interventions can be a highly effective adjunctive or primary treatment for a distinct subset of pediatric ADHD patients.",
+    "authors": ["Dr. S. K. Rossi", "Dr. N. T. Webb"],
+    "publication_date": "2023-07-28"
+  },
+  {
+    "id": "LNAI-MED-011",
+    "title": "Targeted Monoclonal Antibodies in the Treatment of Refractory Rheumatoid Arthritis",
+    "abstract_text": "Rheumatoid Arthritis (RA) patients frequently develop resistance to conventional disease-modifying antirheumatic drugs (DMARDs) and early-generation biologics. This phase III multicenter trial evaluated LNAI-Mab7, a novel bispecific monoclonal antibody targeting both TNF-alpha and IL-17A, in 420 patients with refractory RA. At week 24, 58% of the LNAI-Mab7 group achieved an ACR50 response, compared to 22% in the placebo group. Radiographic progression was significantly halted in the treatment cohort. Adverse events were manageable, primarily consisting of mild upper respiratory infections. LNAI-Mab7 presents a highly effective dual-inhibition strategy for managing severe, treatment-resistant rheumatoid arthritis.",
+    "authors": ["Dr. C. Y. Lin", "Dr. V. Sharma"],
+    "publication_date": "2023-06-11"
+  },
+  {
+    "id": "LNAI-MED-012",
+    "title": "CRISPR-Cas9 Gene Editing for Sickle Cell Disease: Long-Term Follow-Up Data",
+    "abstract_text": "Sickle Cell Disease (SCD) is a debilitating monogenic disorder causing severe vaso-occlusive crises and organ damage. We present the 3-year follow-up data for 25 patients treated with an autologous CRISPR-Cas9 modified hematopoietic stem cell therapy designed to upregulate fetal hemoglobin (HbF). Sustained HbF levels above 30% were observed in 23 of the 25 patients, effectively preventing red blood cell sickling. The annualized rate of vaso-occlusive crises dropped to zero for the responding cohort. No instances of off-target genotoxicity or insertional oncogenesis were detected. These longitudinal results underscore the curative potential of precision genomic medicine for sickle cell disease.",
+    "authors": ["Dr. K. J. Washington", "A. P. Reed"],
+    "publication_date": "2023-09-02"
+  },
+  {
+    "id": "LNAI-MED-013",
+    "title": "SGLT2 Inhibitors and Cardiovascular Outcomes in Non-Diabetic Heart Failure",
+    "abstract_text": "Sodium-glucose cotransporter-2 (SGLT2) inhibitors initially developed for diabetes have shown unexpected cardiovascular benefits. This expansive randomized trial assessed dapagliflozin in 4,500 patients with heart failure with reduced ejection fraction (HFrEF), specifically excluding those with type 2 diabetes. Over a median follow-up of 18 months, the primary composite outcome of worsening heart failure or cardiovascular death occurred in 16.3% of the dapagliflozin group versus 21.2% of the placebo group (Hazard Ratio 0.73, p < 0.001). The findings definitively establish SGLT2 inhibitors as a foundational disease-modifying therapy for HFrEF, independent of glycemic status.",
+    "authors": ["Dr. E. M. Carter", "Dr. R. O. Diaz"],
+    "publication_date": "2022-10-19"
+  },
+  {
+    "id": "LNAI-MED-014",
+    "title": "CAR-T Cell Therapy Efficacy in Solid Tumors: Overcoming the Immunosuppressive Microenvironment",
+    "abstract_text": "While Chimeric Antigen Receptor (CAR) T-cell therapy has revolutionized hematologic oncology, its success in solid tumors remains limited by the hostile tumor microenvironment (TME). This preclinical in vivo study engineered next-generation CAR-T cells to co-express a dominant-negative TGF-beta receptor, shielding them from TME-induced exhaustion. In murine models of advanced pancreatic ductal adenocarcinoma (PDAC), the modified CAR-T cells demonstrated robust proliferation, enhanced tumor infiltration, and led to complete tumor eradication in 40% of the subjects, compared to 0% with standard CAR-T cells. This dual-engineering approach paves the way for effective cellular therapies in intractable solid malignancies.",
+    "authors": ["Dr. J. P. Hwang", "S. L. Kim", "Dr. Elena Rostova"],
+    "publication_date": "2023-11-21"
+  },
+  {
+    "id": "LNAI-MED-015",
+    "title": "Artificial Intelligence in Radiology: Differentiating Benign vs Malignant Pulmonary Nodules",
+    "abstract_text": "Incidental pulmonary nodules are frequently detected on CT scans, necessitating accurate risk stratification. We developed a highly specialized convolutional neural network (CNN) trained on over 50,000 annotated thoracic CT scans. The AI model evaluated 2,000 independent validation scans, aiming to differentiate benign from malignant nodules. The CNN achieved a sensitivity of 94% and a specificity of 91%, outperforming a panel of five board-certified thoracic radiologists who achieved an average sensitivity of 88%. The model's Grad-CAM heatmaps highlighted subtle marginal spiculation and internal density heterogeneity as key predictive features, enhancing interpretability for clinical deployment.",
+    "authors": ["Dr. Alex Turing", "Dr. M. I. Patel"],
+    "publication_date": "2023-03-05"
+  },
+  {
+    "id": "LNAI-MED-016",
+    "title": "Pharmacogenomics in Psychiatry: CYP2C19 Polymorphisms and SSRI Efficacy",
+    "abstract_text": "Variable response rates to Selective Serotonin Reuptake Inhibitors (SSRIs) heavily impact MDD management. This study investigated the clinical utility of preemptive pharmacogenomic testing in a cohort of 500 patients initiated on escitalopram or sertraline. Patients were genotyped for CYP2C19 polymorphisms. Poor metabolizers (PM) exhibited a 2.5-fold higher rate of adverse drug reactions leading to discontinuation, while ultrarapid metabolizers (UM) showed significantly lower rates of clinical remission due to subtherapeutic plasma concentrations. Implementing genotype-guided dosing resulted in a 40% improvement in clinical remission rates at 8 weeks, strongly supporting routine pharmacogenomic screening in psychiatric practice.",
+    "authors": ["Dr. F. A. Russo", "K. E. Olson"],
+    "publication_date": "2022-08-22"
+  },
+  {
+    "id": "LNAI-MED-017",
+    "title": "Impact of Intermittent Fasting on Insulin Resistance and Visceral Adiposity",
+    "abstract_text": "Time-restricted eating (TRE), a form of intermittent fasting, has gained popularity for metabolic management. In this 6-month randomized controlled trial, 180 adults with prediabetes and visceral obesity were assigned to either an 8-hour TRE window (10:00 AM - 6:00 PM) or standard dietary counseling without time restrictions. Both groups consumed isocaloric diets. The TRE group exhibited a significantly greater reduction in visceral adipose tissue mass (measured by DXA scan) and a 25% greater improvement in HOMA-IR (insulin resistance) compared to the control group. Continuous glucose monitoring revealed lower glycemic variability in the TRE cohort, highlighting the metabolic benefits of circadian-aligned feeding windows.",
+    "authors": ["Dr. H. N. Lee", "Dr. G. W. Foster"],
+    "publication_date": "2023-12-14"
+  },
+  {
+    "id": "LNAI-MED-018",
+    "title": "Efficacy of Fecal Microbiota Transplantation in Recurrent Clostridioides difficile Infection",
+    "abstract_text": "Recurrent Clostridioides difficile infection (rCDI) represents a massive burden on healthcare systems, often resisting standard antibiotic therapies. We report the outcomes of a multisite clinical program involving 250 patients with multiply recurrent CDI treated with encapsulated, orally administered Fecal Microbiota Transplantation (FMT). At 8 weeks post-treatment, clinical resolution without recurrence was achieved in 88% of patients. Metagenomic sequencing of patient stool samples pre- and post-FMT confirmed the successful engraftment of donor microbiota, shifting the dysbiotic microbiome to a healthy, diverse profile. The encapsulated FMT approach demonstrates high efficacy and superior patient acceptability compared to colonoscopic delivery.",
+    "authors": ["Dr. D. C. Moreno", "Dr. S. K. Rossi"],
+    "publication_date": "2023-04-29"
+  },
+  {
+    "id": "LNAI-MED-019",
+    "title": "Neuroprotective Effects of GLP-1 Receptor Agonists in Parkinson's Disease Models",
+    "abstract_text": "Glucagon-like peptide-1 (GLP-1) receptor agonists, widely used in type 2 diabetes, have shown potential neuroprotective properties. This translational study evaluated the GLP-1 agonist exendin-4 in a progressive neurotoxin-induced murine model of Parkinson's disease (PD). Exendin-4 administration significantly attenuated the loss of dopaminergic neurons in the substantia nigra pars compacta and preserved striatal dopamine levels. Behaviorally, the treated mice maintained superior motor coordination on the rotarod test. Biochemical analysis revealed a reduction in microglial activation and oxidative stress markers. These findings provide a strong mechanistic rationale for repurposing GLP-1 agonists as disease-modifying therapies for Parkinson's disease.",
+    "authors": ["Dr. P. L. Gomez", "T. R. Vance"],
+    "publication_date": "2022-11-25"
+  },
+  {
+    "id": "LNAI-MED-020",
+    "title": "Maternal Immune Activation and the Risk of Autism Spectrum Disorder: Epidemiological Analysis",
+    "abstract_text": "The relationship between maternal infections during pregnancy and neurodevelopmental outcomes remains complex. This large-scale retrospective cohort study analyzed medical records of over 1.2 million mother-child dyads to assess the risk of Autism Spectrum Disorder (ASD) following severe Maternal Immune Activation (MIA). Severe maternal infections requiring hospitalization in the second trimester were associated with a 1.4-fold increased relative risk of an ASD diagnosis in offspring, adjusting for genetic and socioeconomic confounders. The correlation was strongest for severe bacterial infections. This study underscores the critical role of the in utero inflammatory environment in shaping fetal neurodevelopment.",
+    "authors": ["Dr. C. L. Davies", "Dr. N. T. Webb"],
+    "publication_date": "2023-07-10"
+  },
+  {
+    "id": "LNAI-MED-021",
+    "title": "Novel Small Molecule Inhibitors of KRAS G12C in Advanced Non-Small Cell Lung Cancer",
+    "abstract_text": "The KRAS G12C mutation, historically deemed 'undruggable', is present in approximately 13% of non-small cell lung cancer (NSCLC) patients. This Phase II trial evaluated LNAI-KR88, a highly specific covalent inhibitor of KRAS G12C, in 120 patients with advanced, heavily pretreated NSCLC. The objective response rate (ORR) was 38%, with a disease control rate of 82%. Median progression-free survival (PFS) was 6.8 months. Resistance mechanisms identified in progressing patients primarily involved secondary mutations in the MAP kinase pathway. LNAI-KR88 exhibits a promising efficacy-to-toxicity ratio, offering a critical targeted therapy option for a challenging patient population.",
+    "authors": ["Dr. V. Sharma", "Dr. J. P. Hwang"],
+    "publication_date": "2023-02-12"
+  },
+  {
+    "id": "LNAI-MED-022",
+    "title": "Ketogenic Diet as an Adjunctive Therapy for Refractory Epilepsy in Adults",
+    "abstract_text": "While the ketogenic diet (KD) is an established treatment for pediatric epilepsy, its efficacy in adults with drug-resistant epilepsy is less characterized. We conducted a 6-month prospective study enrolling 50 adult patients experiencing persistent seizures despite optimal polytherapy. Patients adhered to a strict 3:1 classic ketogenic diet. At the conclusion of the study, 32% of patients achieved >50% seizure reduction, and 10% became seizure-free. Compliance was a major hurdle, with a 24% attrition rate due to diet restrictiveness and mild gastrointestinal side effects. The results demonstrate that the KD is a viable, non-pharmacological adjunctive strategy for motivated adults with intractable epilepsy.",
+    "authors": ["Dr. E. J. Klein", "M. K. Patel"],
+    "publication_date": "2023-05-18"
+  },
+  {
+    "id": "LNAI-MED-023",
+    "title": "Bionic Pancreas System Efficacy in Managing Type 1 Diabetes: A Real-World Study",
+    "abstract_text": "Achieving normoglycemia in Type 1 Diabetes (T1D) is challenging due to the dynamic nature of insulin requirements. This multicenter study evaluated an autonomous dual-hormone (insulin and glucagon) bionic pancreas over a 12-week period in 200 adults and adolescents with T1D. The bionic pancreas significantly improved time in range (70-180 mg/dL) from a baseline of 55% to 78%, while concurrently reducing the incidence of severe hypoglycemia by 60%. Glycated hemoglobin (HbA1c) levels dropped by an average of 0.8%. The automated, algorithm-driven delivery system safely and dramatically improves glycemic control, representing a paradigm shift in T1D management.",
+    "authors": ["Dr. R. O. Diaz", "S. L. Kim"],
+    "publication_date": "2023-08-30"
+  },
+  {
+    "id": "LNAI-MED-024",
+    "title": "Evaluating Telepsychiatry vs. In-Person Cognitive Processing Therapy for Rural PTSD Patients",
+    "abstract_text": "Access to specialized trauma care is severely limited in rural populations. This non-inferiority trial compared the delivery of Cognitive Processing Therapy (CPT) via high-definition telepsychiatry versus traditional in-person sessions for rural patients with PTSD. 160 participants were randomized to 12 weeks of either modality. Using the PCL-5 scale, telepsychiatry demonstrated non-inferiority, yielding an average symptom reduction of 22 points compared to 24 points in the in-person group. Therapeutic alliance scores were statistically indistinguishable. The study affirms that telepsychiatry is a highly effective, scalable method for bridging the mental healthcare gap in underserved geographies.",
+    "authors": ["Dr. A. Patel", "L. Q. Grant"],
+    "publication_date": "2022-07-15"
+  },
+  {
+    "id": "LNAI-MED-025",
+    "title": "Epigenetic Clocks and Accelerated Biological Aging in Severe Major Depressive Disorder",
+    "abstract_text": "Major Depressive Disorder (MDD) is associated with an increased risk of age-related somatic diseases, suggesting a link to accelerated biological aging. We utilized DNA methylation-based 'epigenetic clocks' (GrimAge and PhenoAge) to assess the biological age of 200 patients with severe, chronic MDD compared to 200 healthy controls. Patients with MDD exhibited an epigenetic age acceleration of 2.5 years compared to their chronological age. The degree of age acceleration correlated positively with the cumulative duration of untreated depressive episodes and somatic symptom severity. These findings highlight MDD not solely as a psychiatric condition but as a systemic disorder accelerating cellular aging.",
+    "authors": ["Dr. H. Zheng", "Dr. Elena Rostova"],
+    "publication_date": "2023-01-08"
+  },
+  {
+    "id": "LNAI-MED-026",
+    "title": "Efficacy of Non-Invasive Vagus Nerve Stimulation in Cluster Headache Abortive Therapy",
+    "abstract_text": "Cluster headaches are excruciating, primary neurovascular headaches with limited rapid-abortive options. This sham-controlled, double-blind trial investigated a portable, non-invasive vagus nerve stimulation (nVNS) device for acute treatment of episodic cluster headaches. 100 patients were instructed to apply the device to the neck during the onset of an attack. Pain freedom at 15 minutes was achieved in 34% of the nVNS group versus 10% in the sham group. Furthermore, regular use over 4 weeks led to a modest reduction in attack frequency. nVNS offers a safe, well-tolerated, and rapid adjunctive therapy for managing the debilitating pain of cluster headaches.",
+    "authors": ["Dr. M. I. Patel", "Dr. T. M. Harper"],
+    "publication_date": "2023-11-03"
+  },
+  {
+    "id": "LNAI-MED-027",
+    "title": "Gut Microbiota Diversity and Response to PD-1 Blockade in Metastatic Melanoma",
+    "abstract_text": "Immune checkpoint inhibitors (ICIs) like anti-PD-1 therapy show remarkable results in metastatic melanoma, yet only a subset of patients respond. We hypothesized that gut microbiome composition modulates systemic anti-tumor immunity. Fecal samples from 85 metastatic melanoma patients undergoing anti-PD-1 therapy were sequenced using 16S rRNA. Responders exhibited significantly higher alpha diversity and an enrichment of Ruminococcaceae and Akkermansia muciniphila compared to non-responders. Fecal microbiota transplantation from responding patients into germ-free mice bearing melanoma tumors rescued the efficacy of PD-1 blockade. Modulating the gut microbiome presents a novel strategy to overcome resistance to immunotherapy.",
+    "authors": ["Dr. C. Y. Lin", "Dr. J. P. Hwang"],
+    "publication_date": "2022-12-05"
+  },
+  {
+    "id": "LNAI-MED-028",
+    "title": "Psilocybin Therapy for Existential Distress in Terminal Oncology Patients",
+    "abstract_text": "Patients with life-threatening cancer diagnoses frequently suffer from profound existential distress, anxiety, and depression. In this Phase IIb trial, 60 patients with advanced cancer and psychiatric distress received a single high dose of psilocybin (25mg) alongside specialized psychotherapeutic support. At the 6-month follow-up, 80% of participants exhibited clinically significant decreases in depressed mood and death anxiety, as measured by the HADS and DART scales. Qualitative interviews highlighted persistent mystical experiences and cognitive reframing of mortality as key mediators of sustained relief. Psilocybin therapy demonstrates profound potential as a paradigm-shifting palliative mental health intervention.",
+    "authors": ["Dr. Elias Vance", "M. B. Sullivan"],
+    "publication_date": "2023-09-28"
+  },
+  {
+    "id": "LNAI-MED-029",
+    "title": "Predictive Modeling of Sepsis Onset in Intensive Care Units Using High-Frequency EMR Data",
+    "abstract_text": "Sepsis remains a leading cause of mortality in intensive care units (ICUs), demanding earlier recognition. We developed and validated a machine learning model utilizing continuous, high-frequency electronic medical record (EMR) data, including vital signs, lab results, and nursing notes. Evaluated retrospectively on 15,000 ICU admissions, the algorithm accurately predicted sepsis onset (defined by Sepsis-3 criteria) an average of 6 hours prior to clinical diagnosis, with an AUROC of 0.89. Prospective implementation in a pilot ICU demonstrated a 15% reduction in time-to-antibiotic administration. AI-driven predictive surveillance can fundamentally improve severe sepsis survival metrics.",
+    "authors": ["Dr. Alex Turing", "Dr. L. Chen"],
+    "publication_date": "2023-03-22"
+  },
+  {
+    "id": "LNAI-MED-030",
+    "title": "Hyperbaric Oxygen Therapy in the Management of Radiation-Induced Hemorrhagic Cystitis",
+    "abstract_text": "Radiation-induced hemorrhagic cystitis (HC) is a severe, late complication of pelvic radiotherapy with limited treatment options. This retrospective cohort study analyzed 75 patients with refractory HC who underwent Hyperbaric Oxygen Therapy (HBOT). Patients received an average of 40 HBOT dives at 2.4 ATA. Complete resolution of macroscopic hematuria occurred in 76% of the cohort within 6 months post-treatment. Bladder pain and lower urinary tract symptoms also showed significant amelioration. The mechanism involves enhanced tissue oxygenation stimulating neoangiogenesis and fibroblast proliferation in the irradiated bladder wall. HBOT remains the definitive therapy for severe, intractable radiation cystitis.",
+    "authors": ["Dr. K. J. Washington", "Dr. S. K. Rossi"],
+    "publication_date": "2022-10-02"
+  },
+  {
+    "id": "LNAI-MED-031",
+    "title": "Impact of Intensive Blood Pressure Control on Cognitive Decline in Older Adults",
+    "abstract_text": "Chronic hypertension is a known risk factor for vascular dementia and cognitive decline. The SPRINT-MIND clinical trial sought to determine whether intensive systolic blood pressure (SBP) control (<120 mm Hg) mitigates this risk compared to standard control (<140 mm Hg). Over a median 5-year follow-up of 8,500 participants over age 50, the intensive treatment group experienced a 19% lower rate of new-onset Mild Cognitive Impairment (MCI). Brain MRI substudies revealed a significantly lower volume of white matter lesions in the intensive cohort. Stringent blood pressure management represents a crucial, modifiable strategy for preserving cognitive function in aging populations.",
+    "authors": ["Dr. E. M. Carter", "Dr. H. N. Lee"],
+    "publication_date": "2023-06-25"
+  },
+  {
+    "id": "LNAI-MED-032",
+    "title": "Repetitive Transcranial Magnetic Stimulation for Aphasia Rehabilitation Post-Stroke",
+    "abstract_text": "Post-stroke aphasia is deeply debilitating, often resisting standard speech and language therapy. This study investigated the application of low-frequency repetitive Transcranial Magnetic Stimulation (rTMS) to the unaffected right Broca's homolog area to reduce maladaptive interhemispheric inhibition. 40 patients with non-fluent aphasia within 6 months post-stroke were randomized to receive true rTMS or sham stimulation, followed immediately by speech therapy. After 15 sessions, the active rTMS group showed statistically superior improvements in naming and spontaneous speech fluency on the Boston Diagnostic Aphasia Examination (BDAE). Neuromodulation serves as a powerful catalyst for neurorehabilitation in post-stroke language recovery.",
+    "authors": ["Dr. R. K. Sterling", "A. P. Reed"],
+    "publication_date": "2023-01-14"
+  },
+  {
+    "id": "LNAI-MED-033",
+    "title": "Efficacy of CGRP Monoclonal Antibodies in Chronic Migraine Prevention",
+    "abstract_text": "Calcitonin Gene-Related Peptide (CGRP) plays a central role in migraine pathophysiology. This phase III trial evaluated Erenumab, a fully human monoclonal antibody blocking the CGRP receptor, in 600 patients with chronic migraine (≥15 headache days/month). Patients received subcutaneous Erenumab (140 mg) or placebo monthly for 12 weeks. The Erenumab cohort experienced a mean reduction of 6.6 monthly migraine days, compared to 4.2 in the placebo group. Furthermore, 41% of treated patients achieved a ≥50% reduction in migraine frequency. The therapy demonstrated excellent tolerability, establishing CGRP antagonism as a transformative advancement in chronic migraine prophylaxis.",
+    "authors": ["Dr. T. M. Harper", "Dr. V. Sharma"],
+    "publication_date": "2022-09-08"
+  },
+  {
+    "id": "LNAI-MED-034",
+    "title": "Role of Vitamin D Supplementation in the Prevention of Upper Respiratory Tract Infections",
+    "abstract_text": "The immunomodulatory properties of Vitamin D have garnered significant attention for preventing respiratory pathogens. This comprehensive meta-analysis synthesized data from 25 randomized controlled trials, encompassing over 11,000 participants. Results indicated that daily or weekly Vitamin D supplementation reduced the risk of acute respiratory tract infections overall (Odds Ratio 0.88). The protective effect was profoundly more significant in individuals with profound baseline Vitamin D deficiency (25(OH)D < 10 ng/mL) (Odds Ratio 0.30). Bolus dosing regimens were found to be less effective than continuous daily dosing. Ensuring optimal Vitamin D status is a safe, cost-effective public health strategy for respiratory infection prevention.",
+    "authors": ["Dr. M. Rahman", "F. Castillo"],
+    "publication_date": "2023-04-19"
+  },
+  {
+    "id": "LNAI-MED-035",
+    "title": "Cardiac Resynchronization Therapy in Heart Failure with Narrow QRS Complex",
+    "abstract_text": "Cardiac Resynchronization Therapy (CRT) is indicated for heart failure patients with widened QRS complexes (typically >130ms) demonstrating electromechanical dyssynchrony. This exploratory trial (EchoCRT-2) sought to investigate whether patients with a narrow QRS (<130ms) but echocardiographic evidence of mechanical dyssynchrony would benefit. 800 patients were randomized to CRT-ON or CRT-OFF. The trial was halted prematurely due to futility and potential harm. The CRT-ON group exhibited a higher rate of cardiovascular mortality and heart failure hospitalizations. The data definitively establish that QRS duration, not isolated echocardiographic dyssynchrony, must remain the primary gatekeeper for CRT implantation.",
+    "authors": ["Dr. R. O. Diaz", "Dr. E. M. Carter"],
+    "publication_date": "2022-11-12"
+  },
+  {
+    "id": "LNAI-MED-036",
+    "title": "Evaluating the Efficacy of Dialectical Behavior Therapy in Adolescent Borderline Personality Traits",
+    "abstract_text": "Borderline Personality Disorder (BPD) traits often manifest during adolescence, marked by severe emotional dysregulation and self-harm. We conducted a randomized controlled trial comparing 6 months of Dialectical Behavior Therapy for Adolescents (DBT-A) to standard clinical care in 100 youths exhibiting sub-threshold BPD. The DBT-A group engaged in weekly individual therapy, multifamily skills groups, and as-needed phone coaching. Post-intervention, the DBT-A cohort showed a 60% reduction in self-injurious episodes and significantly lower scores on the Macarthur Clinical Assessment of Emotion Dysregulation. Early intervention with tailored DBT fundamentally alters the clinical trajectory of emerging borderline pathology.",
+    "authors": ["Dr. Sarah Jenkins", "N. O. Obasi"],
+    "publication_date": "2023-07-21"
+  },
+  {
+    "id": "LNAI-MED-037",
+    "title": "Continuous Glucose Monitoring in Type 2 Diabetes Management in Primary Care",
+    "abstract_text": "Continuous Glucose Monitoring (CGM) is standard in Type 1 Diabetes but underutilized in Type 2 Diabetes (T2D). This pragmatic trial evaluated the impact of intermittently scanned CGM versus traditional capillary blood glucose monitoring in 350 poorly controlled T2D patients managed in primary care settings. Over 6 months, the CGM group achieved an average HbA1c reduction of 1.1%, compared to 0.5% in the traditional group. Patients utilizing CGM reported higher diet adherence, better understanding of glycemic triggers, and significantly lower diabetes-related distress. Widespread CGM integration in primary care offers actionable biofeedback, driving profound behavioral and clinical improvements in T2D.",
+    "authors": ["Dr. G. W. Foster", "S. L. Kim"],
+    "publication_date": "2023-02-27"
+  },
+  {
+    "id": "LNAI-MED-038",
+    "title": "Prophylactic Mastectomy and Survival Outcomes in BRCA1/2 Mutation Carriers",
+    "abstract_text": "Women harboring BRCA1 or BRCA2 pathogenic variants face an extensively elevated lifetime risk of breast and ovarian cancers. This longitudinal cohort study followed 1,500 BRCA mutation carriers over 15 years to compare overall survival between those electing for bilateral prophylactic mastectomy (BPM) versus those opting for rigorous radiological surveillance (MRI/mammography). While BPM reduced the incidence of primary breast cancer by 92%, there was no statistically significant difference in overall 15-year survival rates between the two cohorts, largely due to successful early detection and intervention in the surveillance group. These findings empower patients to make highly personalized risk-management decisions without compromising long-term survival.",
+    "authors": ["Dr. M. I. Patel", "Dr. C. Y. Lin"],
+    "publication_date": "2022-08-04"
+  },
+  {
+    "id": "LNAI-MED-039",
+    "title": "Pharmacological Management of Agitation in Dementia: A Network Meta-Analysis",
+    "abstract_text": "Behavioral and Psychological Symptoms of Dementia (BPSD), notably agitation and aggression, heavily burden caregivers and precipitate institutionalization. This network meta-analysis evaluated the efficacy and safety of atypical antipsychotics, antidepressants, and anticonvulsants across 45 randomized controlled trials. Risperidone demonstrated the highest efficacy for severe aggression but carried an elevated risk of cerebrovascular adverse events. Citalopram showed moderate efficacy for generalized agitation with a superior safety profile, despite risks of QTc prolongation. The analysis concludes that while pharmacological interventions provide modest benefits, they must be rigorously weighed against severe mortality risks, emphasizing non-pharmacological first-line strategies.",
+    "authors": ["Dr. E. J. Klein", "T. R. Vance"],
+    "publication_date": "2023-10-16"
+  },
+  {
+    "id": "LNAI-MED-040",
+    "title": "Targeting the mTOR Pathway in Autosomal Dominant Polycystic Kidney Disease",
+    "abstract_text": "Autosomal Dominant Polycystic Kidney Disease (ADPKD) leads to progressive renal cyst expansion and end-stage renal disease. Aberrant mTOR pathway activation is a key driver of cystogenesis. This phase III study investigated the mTOR inhibitor Everolimus in 400 patients with early-stage ADPKD. Over 24 months, Everolimus significantly reduced the rate of total kidney volume (TKV) increase compared to placebo (4.2% vs. 9.1% per year). However, it failed to halt the progressive decline in estimated glomerular filtration rate (eGFR). The high incidence of hyperlipidemia and stomatitis limits its broad application. Dual-targeting approaches may be required to achieve functional renal preservation in ADPKD.",
+    "authors": ["Dr. D. C. Moreno", "Dr. K. J. Washington"],
+    "publication_date": "2023-05-09"
+  },
+  {
+    "id": "LNAI-MED-041",
+    "title": "Efficacy of Eye Movement Desensitization and Reprocessing in Complex Trauma",
+    "abstract_text": "Complex PTSD (C-PTSD) arises from prolonged, repeated interpersonal trauma and presents with severe emotional dysregulation and dissociative symptoms. This study compared Eye Movement Desensitization and Reprocessing (EMDR) to Trauma-Focused Cognitive Behavioral Therapy (TF-CBT) in 120 adult survivors of childhood abuse. Both modalities yielded significant reductions in core PTSD symptoms. However, the EMDR group demonstrated faster relief from intrusive flashbacks and lower dropout rates in the first 4 weeks. Additionally, EMDR subjects showed superior improvements in self-organization and somatic symptom indices. EMDR is a highly efficient and tolerable primary intervention for the multifaceted presentation of C-PTSD.",
+    "authors": ["Dr. M. H. Fisher", "Dr. A. Patel"],
+    "publication_date": "2023-01-22"
+  },
+  {
+    "id": "LNAI-MED-042",
+    "title": "Intravenous Iron Therapy for Heart Failure with Preserved Ejection Fraction",
+    "abstract_text": "Iron deficiency, independent of anemia, is prevalent in Heart Failure with Preserved Ejection Fraction (HFpEF) and correlates with poor exercise capacity. The FAIR-HFpEF trial randomized 300 iron-deficient patients to receive intravenous ferric carboxymaltose or a placebo. At 24 weeks, the active treatment group exhibited a significant increase in peak oxygen consumption (peak VO2) during cardiopulmonary exercise testing, alongside improvements in the Kansas City Cardiomyopathy Questionnaire (KCCQ) clinical summary score. Restoring iron stores directly optimizes skeletal and cardiac muscle mitochondrial function, presenting a crucial therapeutic avenue for symptomatic HFpEF management.",
+    "authors": ["Dr. E. M. Carter", "M. K. Patel"],
+    "publication_date": "2022-12-20"
+  },
+  {
+    "id": "LNAI-MED-043",
+    "title": "Artificial Pancreas Application in Pregnancy Complicated by Type 1 Diabetes",
+    "abstract_text": "Maintaining stringent glycemic control during pregnancy is vital for maternal and fetal outcomes in Type 1 Diabetes (T1D), but is complicated by shifting insulin resistance. This feasibility study assessed a closed-loop 'artificial pancreas' system configured with pregnancy-specific glucose targets (65-140 mg/dL) in 40 pregnant women with T1D. The system operated continuously from the late first trimester through delivery. Time-in-range improved dramatically to 82%, without increasing severe hypoglycemic episodes. Neonatal outcomes showed reduced rates of macrosomia and neonatal hypoglycemia compared to historical cohorts. Closed-loop technology safely achieves the rigorous metabolic demands of diabetic pregnancies.",
+    "authors": ["Dr. R. O. Diaz", "Dr. C. L. Davies"],
+    "publication_date": "2023-09-17"
+  },
+  {
+    "id": "LNAI-MED-044",
+    "title": "Neuroinflammation and Microglial Activation in Schizophrenia: A PET Imaging Study",
+    "abstract_text": "The neuroinflammatory hypothesis of schizophrenia postulates that microglial activation contributes to synaptic pruning deficits and pathogenesis. We conducted a Positron Emission Tomography (PET) study using the TSPO radioligand [11C]PBR28 to quantify microglial activation in 45 unmedicated patients experiencing their first psychotic episode and 45 healthy controls. Patients exhibited widespread elevations in TSPO binding, particularly in the prefrontal cortex and hippocampus. Binding levels correlated positively with the severity of negative symptoms and cognitive deficits. These in vivo findings support the presence of active neuroinflammation in early schizophrenia, pointing toward immunomodulatory interventions as novel therapeutic strategies.",
+    "authors": ["Dr. H. Zheng", "A. R. Thompson"],
+    "publication_date": "2023-04-03"
+  },
+  {
+    "id": "LNAI-MED-045",
+    "title": "Use of Wearable Accelerometry to Predict Fall Risk in the Geriatric Population",
+    "abstract_text": "Falls are a leading cause of morbidity and mortality in older adults. This longitudinal study equipped 500 community-dwelling geriatric patients (aged 75+) with discrete lumbar triaxial accelerometers for 30 days to analyze free-living gait dynamics. Machine learning algorithms extracted features including gait variability, step regularity, and sway metrics. Participants were followed for 12 months for prospective fall occurrences. The accelerometry model predicted future falls with an AUC of 0.84, significantly outperforming standard clinical assessments (e.g., Timed Up and Go test, AUC 0.65). Continuous wearable monitoring enables precise, preemptive identification of fall risks, allowing for targeted physical therapy interventions.",
+    "authors": ["Dr. Alex Turing", "Dr. L. Chen"],
+    "publication_date": "2022-10-28"
+  },
+  {
+    "id": "LNAI-MED-046",
+    "title": "Sublingual Immunotherapy for Peanut Allergy in Pediatric Patients",
+    "abstract_text": "Peanut allergy is a persistent, life-threatening condition in pediatric populations. This Phase II randomized, double-blind trial evaluated the safety and efficacy of Peanut Sublingual Immunotherapy (SLIT). 80 children (aged 4-11) received either daily escalating doses of peanut extract via SLIT or a placebo for 12 months. At the exit double-blind placebo-controlled food challenge, 65% of the SLIT group successfully consumed 1,000 mg of peanut protein without reaction, compared to 5% in the placebo group. Adverse events were predominantly mild, transient oropharyngeal pruritus. SLIT presents a highly safe, needle-free desensitization pathway, significantly raising the threshold for accidental peanut exposure reactions.",
+    "authors": ["Dr. M. Rahman", "Dr. S. K. Rossi"],
+    "publication_date": "2023-03-12"
+  },
+  {
+    "id": "LNAI-MED-047",
+    "title": "Cognitive Remediation Therapy in Anorexia Nervosa: Targeting Set-Shifting",
+    "abstract_text": "Patients with Anorexia Nervosa (AN) frequently exhibit specific cognitive endophenotypes, notably poor set-shifting and extreme cognitive rigidity, which maintain the eating disorder pathology. This clinical trial investigated Cognitive Remediation Therapy (CRT) as a pre-treatment primer for 60 adult females with severe AN. The 10-session CRT module involved neurocognitive exercises targeting cognitive flexibility rather than eating behaviors. Post-CRT, participants showed significant improvements on the Wisconsin Card Sorting Test. Furthermore, the CRT cohort exhibited higher retention rates and superior weight restoration during subsequent intensive cognitive behavioral therapy compared to treatment-as-usual controls. Targeting cognitive rigidity directly enhances overall treatment efficacy in AN.",
+    "authors": ["Dr. Sarah Jenkins", "L. Q. Grant"],
+    "publication_date": "2023-08-07"
+  },
+  {
+    "id": "LNAI-MED-048",
+    "title": "Endovascular Thrombectomy for Acute Ischemic Stroke with Large Ischemic Core",
+    "abstract_text": "Historically, acute ischemic stroke patients presenting with a large ischemic core (ASPECTS < 6) were excluded from endovascular thrombectomy (EVT) due to fears of reperfusion hemorrhage and futility. The SELECT2 multicenter randomized trial enrolled 352 patients with large core anterior circulation occlusions to receive either EVT plus medical management or medical management alone. EVT resulted in a significant shift toward better functional outcomes at 90 days (modified Rankin Scale shift analysis, generalized odds ratio 1.51). Symptomatic intracranial hemorrhage rates were comparable between groups. The data mandates a paradigm shift, extending the therapeutic window of EVT to patients previously deemed ineligible.",
+    "authors": ["Dr. T. M. Harper", "Dr. R. K. Sterling"],
+    "publication_date": "2023-06-01"
+  },
+  {
+    "id": "LNAI-MED-049",
+    "title": "Pharmacological Extinction of Fear Memory using Propranolol in Phobic Disorders",
+    "abstract_text": "Memory reconsolidation theory suggests that recalling a traumatic or phobic memory renders it temporarily labile, providing a window for pharmacological disruption. This study tested the administration of the beta-blocker propranolol (40 mg) immediately prior to brief fear activation in 50 patients with severe arachnophobia. One week later, the propranolol group exhibited a dramatic abolition of physiological fear responses (skin conductance and startle reflex) when presented with the phobic stimulus, compared to the placebo group who retained robust fear responses. The behavioral approach test scores also improved significantly. Disrupting reconsolidation with propranolol offers a rapid, transformative intervention for specific phobias.",
+    "authors": ["Dr. M. H. Fisher", "Dr. Elias Vance", "Dr. Elena Rostova"],
+    "publication_date": "2022-11-19"
+  },
+  {
+    "id": "LNAI-MED-050",
+    "title": "Precision Oncology: Liquid Biopsies for Monitoring Minimal Residual Disease in Colorectal Cancer",
+    "abstract_text": "Detecting minimal residual disease (MRD) after curative-intent surgery for Stage III colorectal cancer (CRC) is critical for guiding adjuvant chemotherapy. This prospective observational study utilized circulating tumor DNA (ctDNA) assays in 250 post-operative CRC patients. Serial blood draws were analyzed using personalized, tumor-informed multiplex PCR panels. Post-operative ctDNA positivity strongly predicted clinical recurrence (Hazard Ratio 15.4), often preceding radiological recurrence by a median of 8 months. Conversely, patients who remained persistently ctDNA negative exhibited a 3-year recurrence-free survival rate of 92%. Liquid biopsies represent a paradigm shift in oncology, enabling highly precise, dynamic risk stratification to personalize adjuvant therapy.",
+    "authors": ["Dr. V. Sharma", "Dr. C. Y. Lin", "A. P. Reed"],
+    "publication_date": "2023-12-05"
+  }
+]

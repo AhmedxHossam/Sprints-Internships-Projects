@@ -1,0 +1,10 @@
+# Direct dependencies, pinned to the versions tested in this module's .venv.
+langgraph==1.2.22
+langchain-core==1.8.0
+langchain-openai==1.8.0
+langchain-google-genai==4.4.3
+pydantic==2.14.3
+ddgs==9.16.1
+httpx==0.28.1
+python-dotenv==1.2.4
+mypy==2.4.1

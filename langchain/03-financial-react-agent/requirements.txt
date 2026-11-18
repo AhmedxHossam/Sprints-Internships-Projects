@@ -1,0 +1,9 @@
+langchain-classic==1.0.8
+langchain-core==1.7.6
+langchain-community==0.4.2
+langchain-google-genai==4.4.3
+langchain-text-splitters==1.1.3
+faiss-cpu==1.15.1
+tiktoken==0.14.0
+pydantic==2.14.3
+python-dotenv==1.2.4

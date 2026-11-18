@@ -1,0 +1,19 @@
+{
+  "finding": "The calculated leverage ratio for total debt of $52 million and equity of $28 million is 1.8571428571428572. The policy limit is 1.5. Because the ratio exceeds the 1.5 threshold, the status is NON_COMPLIANT.",
+  "calculation": "52 / 28",
+  "leverage_ratio": 1.8571428571428572,
+  "policy_limit": 1.5,
+  "compliance_status": "NON_COMPLIANT",
+  "assumptions": [
+    "Explicitly assume total debt includes all required liabilities and intangible assets are zero."
+  ],
+  "sources": [
+    "data/financial_policies.md (Chunk 0)"
+  ],
+  "remediation": [
+    "An immediate freeze on new asset acquisition until the ratio is remediated (Section 1.1).",
+    "An automated alert must be logged in the Compliance Dashboard (Section 1.3).",
+    "The portfolio manager must liquidate positions within 4 hours to return below the 1.5 threshold (Section 1.3).",
+    "The compliance status must be marked as NON_COMPLIANT (Section 1.3)."
+  ]
+}

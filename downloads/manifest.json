@@ -1,0 +1,56 @@
+[
+  {
+    "project": "langchain/01-lcel-routing",
+    "archive": "langchain--01-lcel-routing.zip",
+    "sha256": "a5965f4f5064565d2e19802461afb0761305426aaed3ddf4c58dd9a76bd19ced",
+    "bytes": 9934
+  },
+  {
+    "project": "langchain/02-enterprise-rag-agent",
+    "archive": "langchain--02-enterprise-rag-agent.zip",
+    "sha256": "92d7f448f6b876246b10e9ad61699e0d4f177cdf6fcd1ad7aa17acda65c89f16",
+    "bytes": 27964
+  },
+  {
+    "project": "langchain/03-financial-react-agent",
+    "archive": "langchain--03-financial-react-agent.zip",
+    "sha256": "537346c171d2e43cda7c8a85090908eb19e0a64eb555ad7984efd06dd11bd33b",
+    "bytes": 37413
+  },
+  {
+    "project": "langchain/04-agentic-rag-architecture",
+    "archive": "langchain--04-agentic-rag-architecture.zip",
+    "sha256": "9c58aa9328f3444265b56f5d5a6466085acb66cc6fa6dab7d5c47f6c914bf9f0",
+    "bytes": 23804
+  },
+  {
+    "project": "langgraph/01-financial-report-evaluator",
+    "archive": "langgraph--01-financial-report-evaluator.zip",
+    "sha256": "47219ca4b001f292c215348da79615a14cc2c3fd36fddf05eb4f997f582e53e5",
+    "bytes": 28047
+  },
+  {
+    "project": "langgraph/02-persistent-research-assistant",
+    "archive": "langgraph--02-persistent-research-assistant.zip",
+    "sha256": "9d4564c57852bafc6db900418299077df7adae9778d022969e9cabcec31bc2fa",
+    "bytes": 13928
+  },
+  {
+    "project": "langgraph/03-agentic-rag-rescue",
+    "archive": "langgraph--03-agentic-rag-rescue.zip",
+    "sha256": "f2b9de456244e3c67a27165ec4b7e88918ef4f169cbf344b816276fb806143e5",
+    "bytes": 44945
+  },
+  {
+    "project": "langgraph/04-medical-triage-workflow",
+    "archive": "langgraph--04-medical-triage-workflow.zip",
+    "sha256": "ffd96509950abf65c09186508e98824791465db6f3f7ec9a497eb88b3aa80bec",
+    "bytes": 28783
+  },
+  {
+    "project": "langgraph/05-egp-financial-analyst",
+    "archive": "langgraph--05-egp-financial-analyst.zip",
+    "sha256": "a6c23549e1235090a5a51b1e9c50494779bdbb973d0efe5eab5dda078ab5b758",
+    "bytes": 43738
+  }
+]
